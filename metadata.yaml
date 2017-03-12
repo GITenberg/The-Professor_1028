@@ -1,5 +1,8 @@
 _repo: The-Professor_1028
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brontë, Charlotte
@@ -16,6 +19,8 @@ description: "The Professor was the first novel by Charlotte Brontë. It was ori
   \ written before Jane Eyre and rejected by many publishing houses, but was eventually\
   \ published posthumously in 1857 by approval of Arthur Bell Nicholls, who accepted\
   \ the task of reviewing and editing of the novel.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1028#The-Professor
 gutenberg_issued: '1997-08-01'
 gutenberg_type: Text
 identifiers:
